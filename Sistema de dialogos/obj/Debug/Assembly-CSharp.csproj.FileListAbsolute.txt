@@ -1,0 +1,2 @@
+C:\Users\pedro\Documents\Projetos Unity\Sistema de dialogos\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\pedro\Documents\Projetos Unity\Sistema de dialogos\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
